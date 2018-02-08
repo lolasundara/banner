@@ -31,6 +31,7 @@ html {
 .banner-content {
   position: absolute;
   color: #fff;
-  top: 12em;
+  bottom: .125em;
+  left: .25em;
   text-align: center;
 }
